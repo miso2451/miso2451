@@ -113,7 +113,7 @@ class Epaper:
     End transmission pulse.
     """
     def __EndTransmission():
-        pass
+        pass#comment
 
     """
     Wait while the command will be end.
